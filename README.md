@@ -1,4 +1,4 @@
-# 🎓 Certifications DevOps
+# 🎓 Certifications 
 
 Ce repo contient mes notes et TP pour différentes certifications DevOps.
 
