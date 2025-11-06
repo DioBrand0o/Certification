@@ -1,20 +1,20 @@
-# 🎓 Certifications 
+# Certifications 
 
 Ce repo contient mes notes et TP pour différentes certifications DevOps.
 
-## 📂 Structure
+## Structure
 
 Chaque dossier correspond à une certification spécifique et porte le nom de celle-ci.
 
 Exemples :
-- `CKA/` - Certified Kubernetes Administrator
+- `CKA/` - Certified Kubernetes Administrator - Live Discord ( XAVKI ) ⚠️  mardi et jeudi 21h
 - `CKAD/` - Certified Kubernetes Application Developer
 - `CKS/` - Certified Kubernetes Security Specialist
 - `AWS-SAA/` - AWS Solutions Architect Associate
 - `Terraform-Associate/` - HashiCorp Certified: Terraform Associate
 - etc.
 
-## 🤝 Contribuer
+## Contribuer
 
 Les contributions sont les bienvenues !  
 Si vous trouvez des erreurs ou voulez améliorer le contenu, n'hésitez pas à :
@@ -22,12 +22,12 @@ Si vous trouvez des erreurs ou voulez améliorer le contenu, n'hésitez pas à :
 - Proposer une **pull request**
 - Me contacter directement
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > **Ce contenu peut contenir des erreurs.**  
 > Vérifiez toujours avec les documentations officielles avant de vous fier à ces notes.
 
-## 📢 Partage
+## Partage
 
 Si ce repo vous aide, n'hésitez pas à :
 - ⭐ **Star** le projet
@@ -35,7 +35,5 @@ Si ce repo vous aide, n'hésitez pas à :
 - 📤 **Partager** avec d'autres
 
 ---
-
-**Bonne préparation ! 🚀**
 
 **zack alias dio brando**
